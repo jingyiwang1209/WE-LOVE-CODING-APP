@@ -5,11 +5,11 @@
 ## Installation
 
 ### 1. Have Vagrant and VirtualBox installed in your computer.
-### 2. Download the app folder fullstack-nanodegree-vm in your computer.
+### 2. Download the app folder WE-LOVE-CODING-APP in your computer.
 
 ## Usage
 
-### 1. Go to fullstack-nanodegree-vm/vagrant and run vagrant up and then vagrant ssh to login to your virtual system.
+### 1. Go to WE-LOVE-CODING-APP/vagrant and run vagrant up and then vagrant ssh to login to your virtual system.
 
 ### 2. Run ```cd /vagrant``` to access the application folder.
 
